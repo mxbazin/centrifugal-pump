@@ -47,7 +47,7 @@ efficient operating configuration.
 
 <p align="center">
   <img src="figures/resultats_eau.png" width="420">
-  <img src="figures/resultats_sang.png" width="480">
+  <img src="figures/resultats_sang.png" width="450">
 </p>
 <p align="center">
   <em>CFD results from STAR-CCM+ simulations for water (left) and blood (right),
