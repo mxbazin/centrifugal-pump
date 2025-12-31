@@ -23,7 +23,7 @@ biomedical use.
 - Detailed CAD modeling of the impeller and housing in **CATIA V5**
 - Assembly-level integration of inlet and outlet flow paths
 
-- <p align="center">
+<p align="center">
   <img src="figures/cad-pump1.png" width="420">
   <img src="figures/cad-pump2.png" width="400">
 </p>
@@ -47,7 +47,7 @@ efficient operating configuration.
 
 <p align="center">
   <img src="figures/resultats_eau.png" width="420">
-  <img src="figures/resultats_sang.png" width="500">
+  <img src="figures/resultats_sang.png" width="480">
 </p>
 <p align="center">
   <em>CFD results from STAR-CCM+ simulations for water (left) and blood (right),
