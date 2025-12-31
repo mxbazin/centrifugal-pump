@@ -25,7 +25,7 @@ biomedical use.
 
 - <p align="center">
   <img src="figures/cad-pump1.png" width="420">
-  <img src="figures/cad-pump2.png" width="420">
+  <img src="figures/cad-pump2.png" width="400">
 </p>
 <p align="center">
   <em>CAD models of the centrifugal pump assembly and impeller designed in CATIA V5.</em>
@@ -47,7 +47,7 @@ efficient operating configuration.
 
 <p align="center">
   <img src="figures/resultats_eau.png" width="420">
-  <img src="figures/resultats_sang.png" width="420">
+  <img src="figures/resultats_sang.png" width="500">
 </p>
 <p align="center">
   <em>CFD results from STAR-CCM+ simulations for water (left) and blood (right),
