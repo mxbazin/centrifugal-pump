@@ -23,6 +23,14 @@ biomedical use.
 - Detailed CAD modeling of the impeller and housing in **CATIA V5**
 - Assembly-level integration of inlet and outlet flow paths
 
+- <p align="center">
+  <img src="figures/cad-pump1.png" width="420">
+  <img src="figures/cad-pump2.png" width="420">
+</p>
+<p align="center">
+  <em>CAD models of the centrifugal pump assembly and impeller designed in CATIA V5.</em>
+</p>
+
 The geometry was iteratively refined to improve flow guidance and reduce losses.
 
 ## CFD analysis
@@ -36,6 +44,15 @@ The hydraulic performance of the pump was assessed using **STAR-CCM+**:
 
 CFD results were used to guide design iterations and converge toward an
 efficient operating configuration.
+
+<p align="center">
+  <img src="figures/resultats_eau.png" width="420">
+  <img src="figures/resultats_sang.png" width="420">
+</p>
+<p align="center">
+  <em>CFD results from STAR-CCM+ simulations for water (left) and blood (right),
+used to assess flow structures and hydraulic performance.</em>
+</p>
 
 ## Prototyping and validation
 
